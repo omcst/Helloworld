@@ -1,0 +1,20 @@
+2020-07-07 17:23:11,290 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-07 17:24:11,473 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-07 17:24:19,655 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: helloWorld:helloWorld:1.0.0 @ C:\Users\omcst\Documents\GitHub\Helloworld\helloWorld\pom.xml.
+2020-07-07 17:24:27,008 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloWorld/src/main/java
+2020-07-07 17:24:27,008 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /helloWorld/src/main/resources
+2020-07-07 17:24:27,023 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloWorld/src/test/java
+2020-07-07 17:24:27,024 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /helloWorld/src/test/resources
+2020-07-07 17:24:30,894 [main] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for helloWorld
+2020-07-07 17:24:30,984 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 19 sec
+2020-07-07 17:24:33,563 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-07 17:24:33,655 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2020-07-07 17:24:34,027 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-07 17:24:34,055 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-07 17:24:34,058 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of helloWorld
+2020-07-07 17:24:34,060 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for helloWorld
+2020-07-07 17:24:34,078 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-07 17:24:44,811 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-07 17:24:44,824 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-07 17:24:44,825 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-07 17:24:44,839 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
